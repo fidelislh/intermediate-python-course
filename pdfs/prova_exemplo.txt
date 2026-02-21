@@ -1,0 +1,376 @@
+CONHECIMENTOS
+ESPECÍFICOS
+31 – No circuito abaixo a resistência do resistor R deve ser
+tal que a potência no resistor de 5 Ω seja 20 W. A resistência
+de R, a potência total fornecida pela fonte e a corrente I
+serão, respectivamente:
+(A) 4Ω, 70 W e 2 A;
+(B) 4Ω, 25 W e 2,5 A;
+(C) 10Ω, 62,5 W e 2 A;
+(D) 20Ω, 150 W e 2,5 A;
+(E) 20Ω, 70 W e 2,5 A.
+32 - A tensão entre os terminais A e B e a potência fornecida
+pela fonte de corrente I, de 12 A, ao circuito a seguir são,
+respectivamente:
+(A) 24Volts, 288 Watts;
+(B) 42Volts, 504 Watts;
+(C) 42Volts, 576 Watts;
+(D) 72Volts, 576 Watts;
+(E) 72Volts, 864 Watts.
+33 – A energia total armazenada nos componentes passivos
+do circuito abaixo é de 100mJ. Com R1
+ = 80Ω e R2
+ = 20Ω o
+valor de L é de, aproximadamente:
+(A) Zero mH
+(B) 12,25 mH
+(C) 46,08 mH
+(D) 90,00 mH
+(E) 112,5 mH
+34 – Um alimentador trifásico suprido por uma fonte de 220
+Volts eficazes (fase-fase) alimenta uma carga trifásica
+equilibrada de 22 kVA. A corrente na linha será de:
+(A) 100/ 3 A
+(B) 100/3 A
+(C) 100 A
+(D) 300/ 3 A
+(E) 300 A
+35 – Em um circuito R-L série (R = 3 Ω e L = 50mH) os
+valores aproximados das potências ativa, reativa e aparente
+fornecidas por uma fonte de 120 Veficazes, 40/π Hertz serão,
+respectivamente:
+(A) P = 1728 W, Q = 2304 Var, S = 4032 VA;
+(B) P = 2304 W, Q = 1728 Var, S = 2880 VA;
+(C) P = 1728 W, Q = 2304 Var, S = 2880 VA;
+(D) P = 2304 W, Q = 2496 Var, S = 4800 VA;
+(E ) P = 1728 W, Q = 1728 Var, S = 3456 VA.
+36 – O módulo da potência complexa (potência aparente)
+fornecida por um sistema trifásico equilibrado Y-Y é 3600 VA.
+A tensão de linha (fase-fase) é 220 Veficazes. Se a impedância
+da linha é desprezível e o ângulo do fator de potência da
+carga é de 450
+ o módulo da impedância da carga é,
+aproximadamente:
+(A) 10,6 Ω
+(B) 12,7 Ω
+(C) 13,44 Ω
+(D) 16,36 Ω
+(E) 23,28 Ω
+37 - Um transformador monofásico, quando ensaiado em
+condições nominais, apresentou uma perda total de 120
+Watts. Este transformador operando em condições
+nominais apresenta um rendimento de 96%. A potência
+solicitada da fonte é de, aproximadamente:
+(A) 3120,00 Watts
+(B) 3000,00 Watts
+(C) 2995,20 Watts
+(D) 2880,00 Watts
+(E) 1620,00 Watts
+38 – A relação de espiras n (n = N1
+/N2
+) do transformador
+abaixo, para que se obtenha a máxima transferência de
+potência para o resistor de 3Ω no secundário, deve ser de:
+(A) 0,10
+(B) 0,20
+(C) 0,25
+(D) 0,50
+(E) 1,00
+I 20
+5
+R V=60 V
+L
+R 1
+500 F
+I L
+-
++
+R2 1A v C
+√
+√
+R
+48
+3
+N1
+120
+V RC
+: N2
+5Ω 3Ω
+5Ω
+8Ω
+6Ω
+10Ω
+6Ω 1Ω
+6Ω
+2Ωpcimarkpci MjgwNDowMTRjOmJiOGU6NDZlMDozOTMzOmM1YWY6YzNhNjo5N2Zk:V2VkLCAzMCBBcHIgMjAyNSAyMjoxODozMyAtMDMwMA==
+www.pciconcursos.com.br
+7
+Governo do Estado de Mato Grosso Concurso Público - 2006
+39 - Um transformador monofásico com parâmetros
+nominais de 138/13,8 kV, 10.000 kVA, 60Hz, tem
+impedância série (resistência e reatância de dispersão) de
+(0,01 + j0,1) pu (referida aos seus valores nominais). Quando
+submetido a um ensaio de curto-circuito sob corrente
+nominal, as perdas ôhmicas indicadas serão de:
+(A) 10 kW;
+(B) 50 kW;
+(C) 75kW;
+(D) 100 kW;
+(E) 1000 kW.
+40 - Um parque gráfico é alimentado por uma subestação
+com potência instalada de 1875 kVA, operando com fator
+de potência 0,8 indutivo. A carga adicional máxima que pode
+ser instalada após correção do fator de potência é de:
+(Dado: cos θ = 0,8 → sen θ = 0,6)
+(A) 1875 kW
+(B) 1500 kW
+(C) 1125 kW
+(D) 650 kW
+(E) 375 kW
+41 – Os valores dos elementos Y12 e Y22 da matriz admitância
+que representa o sistema abaixo são, respectivamente:
+(A) -0,5 e 1,5
+(B) -0,5 e 0,833
+(C) 1,5 e 0,833
+(D) 0,5 e 0,33
+(E) 0,33 e 0,5
+42- Em muitas instalações o Fator de Potência não é
+analisado e corrigido apropriadamente. Uma correção
+adequada pode levar a uma utilização mais eficiente de
+energia na instalação. Entre as situações indicadas a seguir,
+a única que corresponde a uma boa prática para obtenção
+de alto fator de potência é:
+(A) motores de indução operando em vazio;
+(B) motores super dimensionados;
+(C) utilização de motores síncronos superexcitados;
+(D) transformadores operando em vazio ou com pequenas
+cargas;
+(E) operação em nível de tensão acima do nominal.
+43 – Entre os procedimentos abaixo o ÚNICO que NÃO
+corresponde a uma prática recomendada para a
+conservação de energia é:
+(A) utilização de circuitos individuais para diferentes
+sistemas de cargas elétricas;
+(B) ao desativar lâmpadas fluorescentes, desligar também
+o reator;
+(C) utilizar sempre cores claras nos ambientes;
+(D) sempre que possível, utilizar os aparelhos elétricos no
+horário de pico (18 às 21 h), quando a oferta de energia
+é maior;
+(E) realizar escala de funcionamento de alguns
+equipamentos importantes: desligar alguns
+equipamentos em benefício de outros mais essenciais.
+44 – O valor da indutância L, para que a corrente esteja em
+fase com a tensão da fonte no circuito a seguir, é:
+(A) 10 mH
+(B) 100 mH
+(C) 10 µH
+(D) 1 mH
+(E) 0,1 mH
+45 – Um consumidor industrial com carga instalada de
+220 kW, demanda média de 160kW e fator de carga de
+80%, apresenta um fator de demanda de, aproximadamente:
+(A) 1,25
+(B) 0,91
+(C) 0,80
+(D) 0,72
+(E) 0,58
+46 - Uma carga trifásica desequilibrada está ligada em
+triângulo. A impedância de cada fase é igual a: Za
+ = (3+j4)Ω,
+Zb
+ = (3-j4)Ω e Zc
+ = (4+j3)Ω. Esta carga é conectada em um
+sistema trifásico equilibrado de tensões, cujo valor entre
+as fases é 120V. As potências trifásicas ativa e reativa são,
+respectivamente, iguais a:
+(A) 11,85kW e 16,2kVAr;
+(B) 9,976kW e 2,992kVAr;
+(C) 9,976kW e 6,336kVAr;
+(D) 5,760kW e 1,728kVAr;
+(E) 5,760kW e 2,992kVAr.
+47 - Uma carga desequilibrada está ligada em triângulo.
+A seqüência de fase é “abc”. As correntes de linha
+(fora da ligação) são chamadas de Ia , Ib
+ e Ic
+ . Sabendo-se
+que Ib = 10 3∠90ºA e que a componente de seqüência
+negativa da corrente Ic
+ é Ic2 = 10∠-120ºA, o valor da corrente
+I
+a
+ é:
+(A) 10 3∠-90ºA;
+(B) 10 3∠120ºA;
+(C) 10∠-90ºA;
+(D) 10∠120ºA;
+(E) zero.
+V1
+1
++
+-
+1
+V2
+2
+3
+2
++
+-
+I1 I2
+L 100µF
+12cos(1000t
+V
+4 +
+-
+√
+√
+√pcimarkpci MjgwNDowMTRjOmJiOGU6NDZlMDozOTMzOmM1YWY6YzNhNjo5N2Zk:V2VkLCAzMCBBcHIgMjAyNSAyMjoxODozMyAtMDMwMA==
+www.pciconcursos.com.br
+8
+Governo do Estado de Mato Grosso Concurso Público - 2006
+48 - O campo magnético de um determinado dispositivo
+atravessará um entreferro que possui as seguintes
+dimensões: seção reta 5cm x 10cm , profundidade 2mm.
+A relutância desse entreferro, em Ampere-espira/weber, é
+igual a:
+(A) 1.105
+/π;
+(B) 2.105
+/π;
+(C) 4.105/π;
+(D) 5.105/π;
+(E) 10.105
+/π.
+49 - Operando com carga nominal e fator de potência 0,8
+indutivo na saída, um transformador de 61,25kVA apresenta
+rendimento de 98%. A perda consumida no núcleo é igual
+a 200W. Mantendo o fator de potência na saída, esse
+transformador apresentará eficiência máxima quando
+operando na condição de:
+(A) carga máxima;
+(B) carga nominal;
+(C) 98% da carga nominal;
+(D) 75% da carga nominal;
+(E) 50% carga nominal.
+50 - Para instalações elétricas alimentadas diretamente
+por um ramal a partir da rede de distribuição pública de
+baixa tensão, a queda de tensão admissível é igual a:
+(A) 2%;
+(B) 3%;
+(C) 4%;
+(D) 5%;
+(E) 7%.
+51 - A resistência da armadura de um motor de corrente
+contínua ligação separada é igual a 0,1Ω. Este motor está
+conectado em uma rede C.C. de 120V. Quando funcionando
+em vazio, sua velocidade é igual a 2.160rpm e a sua corrente
+da armadura pode ser considerada desprezível.
+Desprezando-se também os efeitos da reação da armadura,
+ao se colocar uma carga que solicita da rede uma potência
+de 24kW, a velocidade do motor será:
+(A) 2.160rpm;
+(B) 2.070rpm;
+(C) 1.980rpm;
+(D) 1.890rpm;
+(E) 1.800rpm.
+52 - Um motor síncrono opera com fator de potência
+capacitivo. Se a sua carga for reduzida e mantida a mesma
+corrente de campo, o seu fator de potência:
+(A) não se alterará;
+(B) diminuirá, mas continuará capacitivo;
+(C) aumentará, mas continuará capacitivo;
+(D) poderá tornar-se indutivo;
+(E) poderá tornar-se unitário.
+53 - Na linha exclusiva de alimentação para um motor de
+indução trifásico de gaiola, a corrente de partida com tensão
+plena vale Ip . Para limitá-la, se usarmos uma chave
+compensadora no tap de 80% ou uma chave estrelatriângulo, esse valor se reduzirá, respectivamente, para:
+(A) 0,64 Ip e Ip
+/3;
+(B) 0,64 Ip e Ip
+/ 3;
+(C) 0,80 Ip e Ip
+/3;
+(D) 0,80 Ip e Ip/ 3;
+(E) 0,20 Ip
+ e 3Ip
+/3.
+54 - Com tensão plena, o conjugado de partida de um motor
+de indução trifásico de gaiola, 220V, 4 pólos, 60Hz, é
+5,0N.m. Se o motor for ligado na rede e esta apresentar
+uma subtensão de 5%, o seu conjugado de partida será:
+(A) 5,2500N.m;
+(B) 5,0000N.m;
+(C) 4,7500N.m;
+(D) 4,5125N.m;
+(E) 4,2534N.m.
+55 - Ao se substituir um motor de indução trifásico de
+gaiola da Linha Padrão, que apresenta eficiência igual a
+ηLP , por um motor equivalente de mesmas potência e
+tensão da Linha de Alto Rendimento, com eficiência igual
+a ηLAR , a economia de energia obtida é proporcional ao
+valor de:
+(A) (1/ηLP) – (1/ηLAR);
+(B) 1/(ηLAR - ηLP);
+(C) (ηLAR . ηLP) / (ηLAR - ηLP);
+(D) ηLAR - ηLP;
+(E) 1/(ηLP - ηLAR).
+56 - Um gerador síncrono está conectado em uma barra
+infinita, operando nas suas condições nominais de potência,
+tensão, corrente e fator de potência indutivo. Aumenta-se
+em 10% a sua corrente de campo. Nesse caso, pode-se
+afirmar que:
+(A) a potência ativa entregue ao sistema aumentará 10%;
+(B) a potência ativa entregue ao sistema aumentará de um
+valor que dependerá da carga, porém até 10% (exclusivo);
+(C) a potência ativa entregue ao sistema não se alterará;
+(D) o seu fator de potência aumentará 10%;
+(E) a sua tensão terminal aumentará 10%.
+57 - Em um sistema de potência, para que a corrente de curtocircuito trifásico seja igual à corrente de curto monofásico, ambas
+em regime permanente, é necessário que as impedâncias Z1
+ ,
+Z2
+ e Z0
+ , dos respectivos circuitos de seqüência positiva, negativa
+e zero, calculadas segundo o ponto de ocorrência da falta,
+apresentem entre si a seguinte relação:
+(A) Z1
+ qualquer e 2Z2
+ - Z0 = 0;
+(B) 2Z1 - Z2 - Z0 = 0;
+(C) Z0 qualquer e 2Z1 - Z2 =0;
+(D) Z1 - 2Z2 + Z0 = 0;
+(E) Z2 qualquer e 2Z1
+ - Z0 =0.
+√
+√
+√pcimarkpci MjgwNDowMTRjOmJiOGU6NDZlMDozOTMzOmM1YWY6YzNhNjo5N2Zk:V2VkLCAzMCBBcHIgMjAyNSAyMjoxODozMyAtMDMwMA==
+www.pciconcursos.com.br
+9
+Governo do Estado de Mato Grosso Concurso Público - 2006
+58 - Em sistemas de potência, o conceito de “Barra Infinita”
+significa um ponto do sistema no qual se considera:
+(A) potência ativa invariante;
+(B) amplitude e ângulo da tensão constantes;
+(C) potências ativa e reativa invariantes;
+(D) amplitude da tensão e potência ativa invariantes;
+(E) amplitude e freqüência da tensão constantes.
+59 - Um gerador síncrono opera conectado em uma barra
+infinita. Sua reatância síncrona vale 1,0pu e o fator de
+potência de operação é unitário. O gerador está nas suas
+condições nominais. Mantida a sua corrente de campo,
+teoricamente a sobrecarga que ele pode suportar, sem
+perder a sua estabilidade em regime permanente, é da
+ordem de:
+(A) 100,0%;
+(B) 73,2%;
+(C) 50,0%;
+(D) 41,4%;
+(E) 10,0%.
+60 - Nos estudos de fluxo de carga, na Barra de Referência
+(barra swing ou slack) as variáveis especificadas são:
+(A) amplitude e ângulo da tensão;
+(B) potência ativa e amplitude da tensão;
+(C) potência ativa e potência reativa;
+(D) potência ativa e ângulo da tensão;
+(E) amplitude da tensão e potência reativa.
